@@ -1,9 +1,11 @@
 # Algorithm Practice
 Each file includes the problem source, my initial approach, optimized solution, and the time and space complexity analysis.
 
+## File Name Format:
+`problem source`-`problem number`
+
 ## Commit Message Format:
-Each commit message follows this format:
-`problem source`-`problem number`-`date`-`main point`
+`problem name`
 
 ## Code Template:
 ``` java
@@ -15,5 +17,3 @@ class Solution {
   // Time Complexity:
   // Space Complexity:
 }
-
-
