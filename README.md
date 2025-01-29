@@ -3,7 +3,7 @@ Each file includes the problem source, my initial approach, optimized solution, 
 
 ## Commit Message Format:
 Each commit message follows this format:
-`problem source`-`problem number`-`date`
+`problem source`-`problem number`-`date`-`main point`
 
 ## Code Template:
 ``` java
